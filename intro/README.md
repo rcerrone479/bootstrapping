@@ -8,7 +8,7 @@ The layout file ( `edppl-layout.png` ) is a basic wireframe of what the layout s
 
 ### Text
 
-The text for this exercise is located in the `index.html` file.
+The text for this exercise is located in the `index.html` file. It came from [Zombie Ipsum, fwiw](http://www.zombieipsum.com/)
 
 ## Finished?
  
